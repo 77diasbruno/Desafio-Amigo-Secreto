@@ -18,7 +18,7 @@ Exibir o nome sorteado na tela
 
 Clone o repositório:
 
-git clone [https://github.com/seu-usuario/amigo-secreto.git](https://github.com/77diasbruno/Desafio-Amigo-Secreto)
+git clone https://github.com/77diasbruno/Desafio-Amigo-Secreto
 
 Abra o arquivo index.html no navegador
 
